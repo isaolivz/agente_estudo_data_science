@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Banco de dados
+chroma_db/
+*.db
+
+# Arquivos de chave
+.env
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
