@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 st.title("Agente Inteligente")
-st.markdown("Pergunte ao agente:")
+st.markdown("Pergunte ao agente Cientista de Dados:")
 
 with st.sidebar:
     st.header("Documentos")
